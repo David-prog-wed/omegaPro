@@ -220,3 +220,4 @@ $RECYCLE.BIN/
 package.json
 package-lock.json
 src/
+gulpfile.js
